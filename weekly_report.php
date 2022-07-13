@@ -3,6 +3,20 @@ $page = "weekly_report";
 include('header.php');
 
 $num_week = 14;
+$week1="APRIL 4 - 8, 2022";
+$week2="APRIL 11 - 15, 2022";
+$week3="April 18 - 22, 2022";
+$week4="April 25 - 29, 2022";
+$week5="May 2 - 6, 2022";
+$week6="May 9 - 13, 20222";
+$week7="May 16 - 20, 2022";
+$week8="May 23 - 27, 2022";
+$week9="May 30 - June 3, 2022";
+$week10="June 6 - 10, 2022";
+$week11="June 13 - 17, 2022";
+$week12="June 20 - 24, 2022";
+$week13="June 27 - July 1, 2022";
+$week14="July 4 - 8, 2022";
 // // Fetch all weekly report
 // $sql = "SELECT * FROM weekly_report ORDER BY id";
 // $result = mysqli_query($conn, $sql);
@@ -35,7 +49,71 @@ $num_week = 14;
                         <div class="content">
                             <div class="category-info">
                                 <div class="category-list">
-                                    <a href="javascript:void(0)"></a>
+                                    <a href="javascript:void(0)"><?php 
+                                    switch($count){
+                                        case 1:
+                                            echo $week1;
+                                        break;
+
+                                        case 2:
+                                            echo $week2;
+                                        break;
+
+                                        case 3:
+                                            echo $week3;
+                                        break;
+
+                                        case 4:
+                                            echo $week4;
+                                        break;
+
+                                        case 5:
+                                            echo $week5;
+                                        break;
+
+                                        case 6:
+                                            echo $week6;
+                                        break;
+
+                                        case 7:
+                                            echo $week7;
+                                        break;
+
+                                        case 8:
+                                            echo $week8;
+                                        break;
+
+                                        case 9:
+                                            echo $week9;
+                                        break;
+
+                                        case 10:
+                                            echo $week10;
+                                        break;
+
+                                        case 11:
+                                            echo $week11;
+                                        break;
+
+                                        case 12:
+                                            echo $week12;
+                                        break;
+
+                                        case 13:
+                                            echo $week13;
+                                        break;
+
+                                        case 14:
+                                            echo $week14;
+                                        break;
+
+
+                                        default:
+                                        echo null;
+                                        break;
+                                    }
+                                    
+                                    ?></a>
                                 </div>
 
                             </div>
