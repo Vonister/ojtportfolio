@@ -17,9 +17,7 @@ $week11="June 13 - 17, 2022";
 $week12="June 20 - 24, 2022";
 $week13="June 27 - July 1, 2022";
 $week14="July 4 - 8, 2022";
-// // Fetch all weekly report
-// $sql = "SELECT * FROM weekly_report ORDER BY id";
-// $result = mysqli_query($conn, $sql);
+
 
 ?>
 

@@ -1,9 +1,3 @@
-<?php
-session_Start();
-ob_start();
-// include('db_config.php');
-
-?>
 <!DOCTYPE html>
 <html lang="en">
 
