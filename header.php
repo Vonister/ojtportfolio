@@ -87,7 +87,7 @@
                                                                                 echo 'active border-bottom border-primary border-3 px-3';
                                                                             } else {
                                                                                 echo null;
-                                                                            } ?>" href="weekly_report.php">Weekly Accomplishment Reports</a></li>
+                                                                            } ?>" href="weekly_report.php">Weekly Reports</a></li>
 
 
                             <li class="nav-item"><a class="nav-link p-2 <?php if ($page == "appendices") {
@@ -196,7 +196,7 @@
                                                                         echo ' text-primary';
                                                                     } else {
                                                                         echo "text-light";
-                                                                    } ?>" href="weekly_report.php">Weekly Accomplishment Reports</a></li>
+                                                                    } ?>" href="weekly_report.php">Weekly Reports</a></li>
 
 
                     <li class="nav-item  <?php if ($page == "appendices") {
