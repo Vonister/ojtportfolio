@@ -1,7 +1,7 @@
 <?php 
-session_Start();
-ob_start();
-include('db_config.php');
+// session_Start();
+// ob_start();
+// include('db_config.php');
 
 ?>
 
