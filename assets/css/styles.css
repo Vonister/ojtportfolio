@@ -10494,7 +10494,7 @@ div#featured-project-carousel {
     .rn-nav-list {
       margin-top: 0; } }
   .rn-nav-list .nav-item {
-    flex-basis: 25%;
+    flex-basis: 33.33%;
     text-align: center;
     margin-top: 0; }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -11323,11 +11323,19 @@ div#featured-project-carousel {
   margin-top: -30px; }
   @media only screen and (max-width: 479px) {
     .client-card {
-      padding: 0 20px; } }
+      padding: 0 20px; }
+      .client-card .main-content-whole .inner {
+        padding: 10px;
+      }
+     }
       .client-card .main-content {
         margin-top: 30px;
         flex-basis: 33.33%;
         }
+
+        .client-card .main-content-whole p {
+          font-size: 17px;
+          }
         
 
         .client-card .main-content-whole {
@@ -11337,7 +11345,12 @@ div#featured-project-carousel {
    
     @media only screen and (max-width: 767px) {
       .client-card .main-content {
-        flex-basis: 50%; } }
+        flex-basis: 50%; } 
+        .client-card .main-content-whole p {
+          font-size: 12px;
+          }
+        
+      }
     @media only screen and (max-width: 575px) {
       .client-card .main-content {
         flex-basis: 50%; } }
@@ -11366,6 +11379,7 @@ div#featured-project-carousel {
             opacity: 0;
             z-index: -1;
             border-radius: 8px; }
+           
 
             .client-card .main-content-whole .inner {
               background: var(--background-color-1);
@@ -11375,6 +11389,54 @@ div#featured-project-carousel {
               z-index: 2; 
               padding: 30px;
             }
+
+            .client-card .main-content-whole .inner .header {
+             display: flex;
+             margin-bottom: 30px;
+            }
+
+            .client-card .main-content-whole .inner .header .company {
+              width: 70%
+             }
+             .client-card .main-content-whole .inner .header .logo {
+              width: 30%
+             }
+
+             .client-card .main-content-whole .inner .header .company p {
+              font-size: 13px;
+             }
+
+            @media only screen and (max-width: 500px) {
+              .client-card .main-content-whole .inner {
+                padding: 20px 0;
+              }
+
+              .client-card .main-content-whole .inner .header {
+                display: flex;
+                flex-direction: column-reverse;
+               }
+
+               .client-card .main-content-whole .inner .header .company {
+                width: 100%;
+                
+               }
+
+               .client-card .main-content-whole .inner .header .company p {
+                font-size: 10px;
+                margin: 0;
+                text-align: center;
+               }
+               .client-card .main-content-whole .inner .header .company h5 {
+                text-align: center;
+                margin: 0;
+               }
+               .client-card .main-content-whole .inner .header .logo {
+                width: 50%;
+                margin-bottom: 20px;
+               }
+  
+
+             }
               .client-card .main-content-whole .inner::after {
                 content: '';
                 position: absolute;

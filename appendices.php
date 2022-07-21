@@ -30,17 +30,11 @@ include('header.php');
                         <a class="nav-link" id="experience-tab" data-toggle="tab" href="#moa" role="tab" aria-controls="experience" aria-selected="false">MOA</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" id="interview-tab" data-toggle="tab" href="#sec" role="tab" aria-controls="interview" aria-selected="false">SEC</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link" id="education-tab" data-toggle="tab" href="#dtr" role="tab" aria-controls="education" aria-selected="true">DTR</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" id="professional-tab" data-toggle="tab" href="#coc" role="tab" aria-controls="professional" aria-selected="false">Cert. of Completion
+                        <a class="nav-link" id="professional-tab" data-toggle="tab" href="#coc" role="tab" aria-controls="professional" aria-selected="false">Certificate of Completion
                         </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" id="experience-tab" data-toggle="tab" href="#coc2" role="tab" aria-controls="experience" aria-selected="false">Copy of OJT Certificate </a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" id="interview-tab" data-toggle="tab" href="#ojtpic" role="tab" aria-controls="interview" aria-selected="false">OJT Pictures</a>
@@ -82,7 +76,7 @@ include('header.php');
                                         <h4 class="maintitle">Acceptance Form</h4>
                                         <div class=" d-flex justify-content-center">
 
-                                            <embed style="height: 100vh" class="w-100" src="assets/pdf/LOA.pdf#toolbar=0" type="application/pdf">
+                                            <img src="assets/images/appendices/LOA.jpg" alt="">
 
                                         </div>
                                     </div>
@@ -102,11 +96,38 @@ include('header.php');
                                     <div class="content">
                                         <span class="subtitle"></span>
                                         <h4 class="maintitle">Memorandum of Agreement</h4>
+
                                         <div class=" d-flex justify-content-center">
 
-                                            <embed style="height: 100vh" class="w-100" src="assets/pdf/MOA.pdf#toolbar=0" type="application/pdf">
-
+                                            <img class="m-2" src="assets/images/appendices/moa/moa1.jpg" alt="">
                                         </div>
+
+                                        <hr class="my-5">
+
+                                        <div class=" d-flex justify-content-center">
+
+                                            <img class="m-2" src="assets/images/appendices/moa/moa2.jpg" alt="">
+                                        </div>
+
+                                        <hr class="my-5">
+
+                                        <div class=" d-flex justify-content-center">
+
+                                            <img class="m-2" src="assets/images/appendices/moa/moa3.jpg" alt="">
+                                        </div>
+
+                                        <hr class="my-5">
+
+                                        <div class=" d-flex justify-content-center">
+
+                                            <img class="m-2" src="assets/images/appendices/moa/moa4.jpg" alt="">
+                                        </div>
+
+                                        <hr class="my-5">
+
+
+
+
                                     </div>
                                 </div>
                                 <!-- End Skill List Area  -->
@@ -115,27 +136,6 @@ include('header.php');
                     </div>
                     <!-- End Single Tab  -->
 
-                    <!-- Start Single Tab  -->
-                    <div class="tab-pane  single-tab-area" id="sec" role="tabpanel" aria-labelledby="education-tab">
-                        <div class="personal-experience-inner mt--40 ">
-                            <div class="row">
-                                <!-- Start Skill List Area  -->
-                                <div class="container">
-                                    <div class="content">
-                                        <span class="subtitle"></span>
-                                        <h4 class="maintitle">Securities and Exchange Commission</h4>
-                                        <div class=" d-flex justify-content-center">
-
-                                            <embed style="height: 100vh" class="w-100" src="assets/pdf/SEC.pdf#toolbar=0" type="application/pdf">
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Skill List Area  -->
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End Single Tab  -->
 
                     <!-- Start Single Tab  -->
                     <div class="tab-pane fade single-tab-area" id="dtr" role="tabpanel" aria-labelledby="education-tab">
@@ -313,155 +313,155 @@ include('header.php');
 
 
                                         <div class="container  d-flex justify-content-center">
-                                        <h6 class="text-primary my-5" style="font-size: 30px ;">Tutorials</h6>
-                                    </div>
-                                    <div class="row row--25 mt--10 mt_md--10 mt_sm--10">
-                                        <!-- Start Single Portfolio -->
-                                        <div data-aos="fade-up" data-aos-delay="100" data-aos-once="true" class="col-lg-6 col-xl-6 col-md-12 col-12 mt--50 mt_md--30 mt_sm--30">
-                                            <div class="rn-portfolio" data-toggle="modal" data-target="#exampleModalCenter">
-                                                <div class="inner">
-                                                    <div class="thumbnail">
-                                                        <a href="javascript:void(0)">
-                                                            <img src="assets/images/appendices/OJTpics/pic1.png" alt="Personal Portfolio Images">
-                                                        </a>
-                                                    </div>
+                                            <h6 class="text-primary my-5" style="font-size: 30px ;">Tutorials</h6>
+                                        </div>
+                                        <div class="row row--25 mt--10 mt_md--10 mt_sm--10">
+                                            <!-- Start Single Portfolio -->
+                                            <div data-aos="fade-up" data-aos-delay="100" data-aos-once="true" class="col-lg-6 col-xl-6 col-md-12 col-12 mt--50 mt_md--30 mt_sm--30">
+                                                <div class="rn-portfolio" data-toggle="modal" data-target="#exampleModalCenter">
+                                                    <div class="inner">
+                                                        <div class="thumbnail">
+                                                            <a href="javascript:void(0)">
+                                                                <img src="assets/images/appendices/OJTpics/pic1.png" alt="Personal Portfolio Images">
+                                                            </a>
+                                                        </div>
 
+                                                    </div>
                                                 </div>
                                             </div>
-                                        </div>
-                                        <!-- End Single Portfolio -->
+                                            <!-- End Single Portfolio -->
 
-                                        <!-- Start Single Portfolio -->
-                                        <div data-aos="fade-up" data-aos-delay="300" data-aos-once="true" class="col-lg-6 col-xl-6 col-md-12 col-12 mt--50 mt_md--30 mt_sm--30">
-                                            <div class="rn-portfolio" data-toggle="modal" data-target="#exampleModalCenter">
-                                                <div class="inner">
-                                                    <div class="thumbnail">
-                                                        <a href="javascript:void(0)">
-                                                            <img src="assets/images/appendices/OJTpics/pic2.png" alt="Personal Portfolio Images">
-                                                        </a>
+                                            <!-- Start Single Portfolio -->
+                                            <div data-aos="fade-up" data-aos-delay="300" data-aos-once="true" class="col-lg-6 col-xl-6 col-md-12 col-12 mt--50 mt_md--30 mt_sm--30">
+                                                <div class="rn-portfolio" data-toggle="modal" data-target="#exampleModalCenter">
+                                                    <div class="inner">
+                                                        <div class="thumbnail">
+                                                            <a href="javascript:void(0)">
+                                                                <img src="assets/images/appendices/OJTpics/pic2.png" alt="Personal Portfolio Images">
+                                                            </a>
+                                                        </div>
+
                                                     </div>
-
                                                 </div>
                                             </div>
-                                        </div>
-                                        <!-- End Single Portfolio -->
+                                            <!-- End Single Portfolio -->
 
-                                        <!-- Start Single Portfolio -->
-                                        <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true" class="col-lg-6 col-xl-6 col-md-12 col-12 mt--50 mt_md--30 mt_sm--30">
-                                            <div class="rn-portfolio" data-toggle="modal" data-target="#exampleModalCenter">
-                                                <div class="inner">
-                                                    <div class="thumbnail">
-                                                        <a href="javascript:void(0)">
-                                                            <img src="assets/images/appendices/OJTpics/pic3.png" alt="Personal Portfolio Images">
-                                                        </a>
+                                            <!-- Start Single Portfolio -->
+                                            <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true" class="col-lg-6 col-xl-6 col-md-12 col-12 mt--50 mt_md--30 mt_sm--30">
+                                                <div class="rn-portfolio" data-toggle="modal" data-target="#exampleModalCenter">
+                                                    <div class="inner">
+                                                        <div class="thumbnail">
+                                                            <a href="javascript:void(0)">
+                                                                <img src="assets/images/appendices/OJTpics/pic3.png" alt="Personal Portfolio Images">
+                                                            </a>
+                                                        </div>
+
                                                     </div>
-
                                                 </div>
                                             </div>
-                                        </div>
-                                        <!-- End Single Portfolio -->
+                                            <!-- End Single Portfolio -->
 
-                                        <!-- Start Single Portfolio -->
-                                        <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true" class="col-lg-6 col-xl-6 col-md-12 col-12 mt--50 mt_md--30 mt_sm--30">
-                                            <div class="rn-portfolio" data-toggle="modal" data-target="#exampleModalCenter">
-                                                <div class="inner">
-                                                    <div class="thumbnail">
-                                                        <a href="javascript:void(0)">
-                                                            <img src="assets/images/appendices/OJTpics/pic4.png" alt="Personal Portfolio Images">
-                                                        </a>
+                                            <!-- Start Single Portfolio -->
+                                            <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true" class="col-lg-6 col-xl-6 col-md-12 col-12 mt--50 mt_md--30 mt_sm--30">
+                                                <div class="rn-portfolio" data-toggle="modal" data-target="#exampleModalCenter">
+                                                    <div class="inner">
+                                                        <div class="thumbnail">
+                                                            <a href="javascript:void(0)">
+                                                                <img src="assets/images/appendices/OJTpics/pic4.png" alt="Personal Portfolio Images">
+                                                            </a>
+                                                        </div>
+
                                                     </div>
-
                                                 </div>
                                             </div>
-                                        </div>
-                                        <!-- End Single Portfolio -->
+                                            <!-- End Single Portfolio -->
 
-                                        <hr class="my-5">
+                                            <hr class="my-5">
 
 
-                                        <div class="container  d-flex justify-content-center">
-                                        <h6 class="text-primary my-5" style="font-size: 30px ;">Tasks</h6>
-                                    </div>
-                                    <div class="row row--25 mt--10 mt_md--10 mt_sm--10">
-                                        <!-- Start Single Portfolio -->
-                                        <div data-aos="fade-up" data-aos-delay="100" data-aos-once="true" class="col-lg-6 col-xl-6 col-md-12 col-12 mt--50 mt_md--30 mt_sm--30">
-                                            <div class="rn-portfolio" data-toggle="modal" data-target="#exampleModalCenter">
-                                                <div class="inner">
-                                                    <div class="thumbnail">
-                                                        <a href="javascript:void(0)">
-                                                            <img src="assets/images/appendices/OJTpics/task1.png" alt="Personal Portfolio Images">
-                                                        </a>
+                                            <div class="container  d-flex justify-content-center">
+                                                <h6 class="text-primary my-5" style="font-size: 30px ;">Tasks</h6>
+                                            </div>
+                                            <div class="row row--25 mt--10 mt_md--10 mt_sm--10">
+                                                <!-- Start Single Portfolio -->
+                                                <div data-aos="fade-up" data-aos-delay="100" data-aos-once="true" class="col-lg-6 col-xl-6 col-md-12 col-12 mt--50 mt_md--30 mt_sm--30">
+                                                    <div class="rn-portfolio" data-toggle="modal" data-target="#exampleModalCenter">
+                                                        <div class="inner">
+                                                            <div class="thumbnail">
+                                                                <a href="javascript:void(0)">
+                                                                    <img src="assets/images/appendices/OJTpics/task1.png" alt="Personal Portfolio Images">
+                                                                </a>
+                                                            </div>
+
+                                                        </div>
                                                     </div>
-
                                                 </div>
+                                                <!-- End Single Portfolio -->
+
+                                                <!-- Start Single Portfolio -->
+                                                <div data-aos="fade-up" data-aos-delay="300" data-aos-once="true" class="col-lg-6 col-xl-6 col-md-12 col-12 mt--50 mt_md--30 mt_sm--30">
+                                                    <div class="rn-portfolio" data-toggle="modal" data-target="#exampleModalCenter">
+                                                        <div class="inner">
+                                                            <div class="thumbnail">
+                                                                <a href="javascript:void(0)">
+                                                                    <img src="assets/images/appendices/OJTpics/task2.png" alt="Personal Portfolio Images">
+                                                                </a>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- End Single Portfolio -->
+
+                                                <!-- Start Single Portfolio -->
+                                                <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true" class="col-lg-6 col-xl-6 col-md-12 col-12 mt--50 mt_md--30 mt_sm--30">
+                                                    <div class="rn-portfolio" data-toggle="modal" data-target="#exampleModalCenter">
+                                                        <div class="inner">
+                                                            <div class="thumbnail">
+                                                                <a href="javascript:void(0)">
+                                                                    <img src="assets/images/appendices/OJTpics/task3.png" alt="Personal Portfolio Images">
+                                                                </a>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- End Single Portfolio -->
+
+                                                <!-- Start Single Portfolio -->
+                                                <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true" class="col-lg-6 col-xl-6 col-md-12 col-12 mt--50 mt_md--30 mt_sm--30">
+                                                    <div class="rn-portfolio" data-toggle="modal" data-target="#exampleModalCenter">
+                                                        <div class="inner">
+                                                            <div class="thumbnail">
+                                                                <a href="javascript:void(0)">
+                                                                    <img src="assets/images/appendices/OJTpics/task4.png" alt="Personal Portfolio Images">
+                                                                </a>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- End Single Portfolio -->
+
+
                                             </div>
                                         </div>
-                                        <!-- End Single Portfolio -->
-
-                                        <!-- Start Single Portfolio -->
-                                        <div data-aos="fade-up" data-aos-delay="300" data-aos-once="true" class="col-lg-6 col-xl-6 col-md-12 col-12 mt--50 mt_md--30 mt_sm--30">
-                                            <div class="rn-portfolio" data-toggle="modal" data-target="#exampleModalCenter">
-                                                <div class="inner">
-                                                    <div class="thumbnail">
-                                                        <a href="javascript:void(0)">
-                                                            <img src="assets/images/appendices/OJTpics/task2.png" alt="Personal Portfolio Images">
-                                                        </a>
-                                                    </div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- End Single Portfolio -->
-
-                                        <!-- Start Single Portfolio -->
-                                        <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true" class="col-lg-6 col-xl-6 col-md-12 col-12 mt--50 mt_md--30 mt_sm--30">
-                                            <div class="rn-portfolio" data-toggle="modal" data-target="#exampleModalCenter">
-                                                <div class="inner">
-                                                    <div class="thumbnail">
-                                                        <a href="javascript:void(0)">
-                                                            <img src="assets/images/appendices/OJTpics/task3.png" alt="Personal Portfolio Images">
-                                                        </a>
-                                                    </div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- End Single Portfolio -->
-
-                                        <!-- Start Single Portfolio -->
-                                        <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true" class="col-lg-6 col-xl-6 col-md-12 col-12 mt--50 mt_md--30 mt_sm--30">
-                                            <div class="rn-portfolio" data-toggle="modal" data-target="#exampleModalCenter">
-                                                <div class="inner">
-                                                    <div class="thumbnail">
-                                                        <a href="javascript:void(0)">
-                                                            <img src="assets/images/appendices/OJTpics/task4.png" alt="Personal Portfolio Images">
-                                                        </a>
-                                                    </div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- End Single Portfolio -->
-
-
+                                        <!-- End Skill List Area  -->
                                     </div>
                                 </div>
-                                <!-- End Skill List Area  -->
                             </div>
+                            <!-- End Single Tab  -->
+
+
+
+
                         </div>
                     </div>
-                    <!-- End Single Tab  -->
-
-
-
-
                 </div>
             </div>
         </div>
-    </div>
-</div>
-<!-- End Resume Area -->
+        <!-- End Resume Area -->
 
-<?php
-include('footer.php');
-?>
+        <?php
+        include('footer.php');
+        ?>

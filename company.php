@@ -89,30 +89,23 @@ $company_tab = $_GET['company_tab'];
                                     <div class="main-content-whole w-100">
                                         <div class="inner text-center">
                                             <div class="container d-flex flex-column">
-                                                <div class="container d-flex mb-5">
-                                                    <div class="container text-start" style="width: 70%">
+                                                <div class="header container">
+                                                    <div class="company container text-start">
                                                         <h5>EASTVANTAGE BUSINESS SOLUTIONS INC.</h5>
-                                                        <small class="text-primary"> <i class="fas fa-map-marker-alt"></i> 24th Floor Fort Legend Tower 3rd Avenue cor. 31st Street, Bonifacio Global City, Taguig, 1634 Metro Manila, Philippines</small>
+                                                        <p class="text-primary"> <i class="fas fa-map-marker-alt"></i> 24th Floor Fort Legend Tower 3rd Avenue cor. 31st Street, Bonifacio Global City, Taguig, 1634 Metro Manila, Philippines</p>
                                                     </div>
-                                                    <div class="container" style="width: 30%">
+                                                    <div class="logo container">
                                                         <img class="border border-primary border-5 rounded-circle p-2" src="assets/images/eastvantage logo.png" alt="">
                                                     </div>
 
                                                 </div>
                                                 <div class="container">
                                                     <p> <span class="text-primary"> About the Company</span> </br>
-                                                        Eastvantage is a global business solutions company enabling
-                                                        offshore operations from the locations in the Philippines, India
-                                                        and Bulgaria. With over a decade of operations, they offer a
-                                                        wealth of international insights and local knowledge in the
-                                                        areas of digital transformation, customer experience, and
-                                                        business support.
+                                                        Eastvantage provides customized business solutions to global companies, enabling offshore operations from its locations in the Philippines, India and Bulgaria. The management team brings a wealth of global insights and local knowledge in the areas of digital transformation, customer experience, and business support. Combining expertise with a hands-on approach to managing client relationships, we help bring about strategic growth for businesses in a wide range of industries worldwide.
 
-                                                        Combining expertise with a hands-on approach to managing client
-                                                        relationships, they help bring about strategic growth for
-                                                        businesses in a wide range of industries worldwide.
+                                                        With over a decade of operations, we have 1000+ happy employees managed by leaders who have a solid understanding of industry best practices. We pride ourselves in having crafted a good record in providing integrated, cost-effective, and fully-functional outsourcing solutions. More than that, we have built a company culture that we are truly proud of. We place a premium on creating a happy workplace driven by meaningful jobs.
 
-                                                        Eastvantage makes offshoring simple and seamless.</p>
+                                                        Our core values of customer intimacy, transparency, passion, excellence, and commitment extend to our colleagues as well as to our clients, making offshoring simple and seamless. Proving true to providing inspiration to help global businesses grow, Eastvantage is relentless in adopting innovative strategies to adapt to the ever-changing market demands.</p>
                                                 </div>
                                             </div>
 
@@ -130,19 +123,35 @@ $company_tab = $_GET['company_tab'];
                                     <!-- Start Single Brand  -->
                                     <div class="main-content-whole w-100">
                                         <div class="inner text-center">
-                                            <p> <span class="text-primary"> Historical Background</span> </br> </br>
-                                                Eastvantage is a global business solutions company enabling
-                                                offshore operations from the locations in the Philippines, India
-                                                and Bulgaria. With over a decade of operations, they offer a
-                                                wealth of international insights and local knowledge in the
-                                                areas of digital transformation, customer experience, and
-                                                business support.
+                                            <div class="container">
+                                                <p> <span class="text-primary"> Historical Background</span> </br> </br>
+                                                    Eastvantage was established on October 2010 and the founder of Eastvantage
+                                                    is Joeri Timp. Timp held the team at the global service center of UK-based
+                                                    NGA (SAP HR outsourcing) and the delivery center of the global law firm Baker &
+                                                    McKenzie (legal process outsourcing) and has over 20 years of management experience.
+                                                    Eastvantage is a privately-held business solutions company with Euro-Filipino roots. 
+                                                    Eastvantage was conceived casually at a Philippine beach by entrepreneur friends, 
+                                                    and was born naturally in order to provide small and medium enterprises access to 
+                                                    affordable world-class outsourcing services, while providing meaningful jobs.
+                                                    
+                                                    In 2021, the company restructured its shareholdings with the entry of a 
+                                                    seasoned investor who brought in a deep understanding of scaling service o
+                                                    perations.
+                                                </p>
 
-                                                Combining expertise with a hands-on approach to managing client
-                                                relationships, they help bring about strategic growth for
-                                                businesses in a wide range of industries worldwide.
+                                                <p class="text-start"><br>
+                                                    <span class="text-primary"> Industry recognized outsourcing:</span> <br>
+                                                    2019: International ICT Awards as Best
+                                                    Company of the Year Providing Services for
+                                                    Information Technology & Software
+                                                    Development <br>
+                                                    2020: Bronze Stevie® Award for Excellence in
+                                                    Innovation in Technology Industries <br>
+                                                    2021: Silver Stevie® Award for Most
+                                                    Exemplary Employer for COVID-19 Response
+                                                </p>
+                                            </div>
 
-                                                Eastvantage makes offshoring simple and seamless.</p>
 
                                         </div>
                                     </div>
@@ -156,21 +165,30 @@ $company_tab = $_GET['company_tab'];
                                     <!-- Start Single Brand  -->
                                     <div class="main-content-whole w-100">
                                         <div class="inner text-center">
-                                            <p> <span class="text-primary"> Mission</span> </br> </br>
-                                                Eastvantage is a global business solutions company enabling
-                                                offshore operations from the locations in the Philippines, India
-                                                and Bulgaria. With over a decade of operations, they offer a
-                                                wealth of international insights and local knowledge in the
-                                                areas of digital transformation, customer experience, and
-                                                business support.
+                                            <div class="container">
+                                                <p> <span class="text-primary"> Mission</span> </br> </br>
+                                                   <img src="assets/images/client/mission.jpg" alt="">
+                                                   Providing meaningful jobs for Filipinos.
 
-                                                </br> </br></br>
-                                                <span class="text-primary"> Vision</span> </br> </br>
-                                                Combining expertise with a hands-on approach to managing client
-                                                relationships, they help bring about strategic growth for
-                                                businesses in a wide range of industries worldwide.
+                                                    </br> </br></br>
+                                                    <span class="text-primary"> Vision</span> </br> </br>
+                                                    We envision a global business
+                                                    community that knows no boundaries,
+                                                    where distance is bridged through
+                                                    communication and technology.
+                                                    We foresee a future where
+                                                    entrepreneurs can work with each other
+                                                    from across the globe and share the
+                                                    wealth of resources available within and
+                                                    beyond their spheres of operation.
+                                                    It is our company vision to be a strategic
+                                                    partner for entrepreneurs around the
+                                                    world by providing added-value services
+                                                    and providing meaningful jobs for
+                                                    Filipinos.
+                                                </p>
 
-                                                Eastvantage makes offshoring simple and seamless.</p>
+                                            </div>
 
                                         </div>
                                     </div>

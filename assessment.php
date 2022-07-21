@@ -11,7 +11,7 @@ include('header.php');
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title text-center">
-                    <span class="subtitle">My Journey in OJT</span>
+                    <span class="subtitle">My Journey in Eastvantage</span>
                     <h2 class="title">Self-Assessment</h2>
                 </div>
             </div>

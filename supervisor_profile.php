@@ -18,7 +18,7 @@ include('header.php');
                                 </div>
                                 <div class="card-content">
                                     <h5 class="title">Carmela Garcia</h5>
-                                    <span class="designation">22 years old | Male</span> </br>
+                                    <span class="designation">22 years old | Female</span> </br>
                                     <small class="text-primary"> <i class="fas fa-map-marker-alt"></i> Janopol Oriental, Tanauan City, Batangas, Philippines</small>
                                 </div>
                             </div>
@@ -111,28 +111,9 @@ include('header.php');
                                             <div class="check d-flex">
                                                 <i class="fas fa-school text-primary mt-1 me-3"></i>
                                                 <p>  <span class="text-primary fs-2 fw-bold">College</span> </br>
-                                                    Bachelor of Science in Information Technology </br>
-                                                    Polytechnic University of the Philippines  </br>
-                                                    2018 - Present
-
-                                                </p>
-                                            </div>
-
-                                            <div class="check d-flex">
-                                                <i class="fas fa-school text-primary mt-1 me-3"></i>
-                                                <p><span class="text-primary fs-2 fw-bold">Senior Highschool</span> </br>
-                                                    Science, Technology, Engineering and Mathematics </br>
-                                                    First Asia Institute of Technology and Humanities  </br>
-                                                    2016 - 2018
-
-                                                </p>
-                                            </div>
-
-                                            <div class="check d-flex">
-                                                <i class="fas fa-school text-primary mt-1 me-3"></i>
-                                                <p><span class="text-primary fs-2 fw-bold">Junior Highschool</span> </br>
-                                                    Tanauan City National Highschool </br>
-                                                   2012-2016
+                                                    Bachelor of Science in Computer Science </br>
+                                                    Adamson University  </br>
+                                                    1996 - 2000
 
                                                 </p>
                                             </div>
