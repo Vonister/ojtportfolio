@@ -99,8 +99,33 @@ include('header.php');
 
                                         <div class=" d-flex justify-content-center">
 
-                                        <embed style="height: 100vh" class="w-100" src="assets/pdf/MOA.pdf#toolbar=0" type="application/pdf">
+                                            <img class="m-2" src="assets/images/moa/moa1.jpg" alt="">
                                         </div>
+
+                                        <hr class="my-5">
+
+                                        <div class=" d-flex justify-content-center">
+
+                                            <img class="m-2" src="assets/images/moa/moa2.jpg" alt="">
+                                        </div>
+
+                                        <hr class="my-5">
+
+                                        <div class=" d-flex justify-content-center">
+
+                                            <img class="m-2" src="assets/images/moa/moa3.jpg" alt="">
+                                        </div>
+
+                                        <hr class="my-5">
+
+                                        <div class=" d-flex justify-content-center">
+
+                                            <img class="m-2" src="assets/images/moa/moa4.jpg" alt="">
+                                        </div>
+
+                                        <hr class="my-5">
+
+
 
 
                                     </div>
