@@ -99,28 +99,28 @@ include('header.php');
 
                                         <div class=" d-flex justify-content-center">
 
-                                            <img class="m-2" src="assets/images/appendices/moa/moa1.jpg" alt="">
+                                            <img class="m-2" src="assets/images/moa/moa1.jpg" alt="">
                                         </div>
 
                                         <hr class="my-5">
 
                                         <div class=" d-flex justify-content-center">
 
-                                            <img class="m-2" src="assets/images/appendices/moa/moa2.jpg" alt="">
+                                            <img class="m-2" src="assets/images/moa/moa2.jpg" alt="">
                                         </div>
 
                                         <hr class="my-5">
 
                                         <div class=" d-flex justify-content-center">
 
-                                            <img class="m-2" src="assets/images/appendices/moa/moa3.jpg" alt="">
+                                            <img class="m-2" src="assets/images/moa/moa3.jpg" alt="">
                                         </div>
 
                                         <hr class="my-5">
 
                                         <div class=" d-flex justify-content-center">
 
-                                            <img class="m-2" src="assets/images/appendices/moa/moa4.jpg" alt="">
+                                            <img class="m-2" src="assets/images/moa/moa4.jpg" alt="">
                                         </div>
 
                                         <hr class="my-5">
