@@ -18,8 +18,10 @@ include('header.php');
                                 </div>
                                 <div class="card-content">
                                     <h5 class="title">Carmela Garcia</h5>
-                                    <span class="designation">22 years old | Female</span> </br>
-                                    <small class="text-primary"> <i class="fas fa-map-marker-alt"></i> Janopol Oriental, Tanauan City, Batangas, Philippines</small>
+                                    <span class="designation">Eastvantage Project Manager | Female</span> </br>
+                                    <small class="text-primary"> <i class="fas fa-map-marker-alt"></i> 24/F Fort Legend Tower 3rd Avenue corner 31st Street,
+                                        Bonifacio Global Ciy, Taguig
+                                    </small>
                                 </div>
                             </div>
                         </div>
@@ -56,43 +58,31 @@ include('header.php');
                                     <div class="check-wrapper">
                                         <div class="left-area">
                                             <div class="check d-flex align-items-center">
+                                                <i class="fas fa-building  text-primary me-3"></i>
+                                                <p>Division/Department: Operation - Projects Team</p>
+                                            </div>
+
+                                            <div class="check d-flex align-items-center">
                                                 <i class="fas fa-phone-alt text-primary me-3"></i>
-                                                <p>Landline: (043)-740-9197</p>
+                                                <p>Landline: +632 8876 1444</p>
                                             </div>
 
                                             <div class="check d-flex align-items-center">
                                                 <i class="fas fa-mobile-alt text-primary me-3"></i>
-                                                <p>Mobile: +63 995 002 0360</p>
+                                                <p>Mobile: 0917 855 3113</p>
                                             </div>
 
                                             <div class="check d-flex align-items-center">
                                                 <i class="fas fa-envelope text-primary me-3"></i>
-                                                <p>Email: ryansumague1030@gmail.com</p>
+                                                <p>Email: carmela@eastvantage.com</p>
                                             </div>
 
-                                            <h6 class="title my-5">Contact Person incase of Emergency</h6>
-
-                                            <div class="check d-flex align-items-center ps-4">
-                                                <i class="fas fa-user text-primary me-3"></i>
-                                                <p>Name: Fernando Sumague</p>
-                                            </div>
-
-                                            <div class="check d-flex align-items-center ps-4">
-                                                <i class="fas fa-user-friends text-primary me-2"></i>
-                                                <p>Relationship: Father</p>
-                                            </div>
-
-                                            <div class="check d-flex align-items-center ps-4">
-                                                <i class="fas fa-mobile-alt text-primary me-3"></i>
-                                                <p>Mobile: +63 945 715 5819</p>
-                                            </div>
-                                           
                                         </div>
-                                        
-                                        
+
+
                                     </div>
                                 </div>
-                                
+
                             </div>
                             <!-- End -->
                         </div>
@@ -105,23 +95,23 @@ include('header.php');
                                         <h2 class="title">Educational Background</h2>
                                     </div>
                                 </div>
-                                <div class="pricing-body"> 
+                                <div class="pricing-body">
                                     <div class="check-wrapper">
                                         <div class="left-area">
                                             <div class="check d-flex">
                                                 <i class="fas fa-school text-primary mt-1 me-3"></i>
-                                                <p>  <span class="text-primary fs-2 fw-bold">College</span> </br>
+                                                <p> <span class="text-primary fs-2 fw-bold">College</span> </br>
                                                     Bachelor of Science in Computer Science </br>
-                                                    Adamson University  </br>
+                                                    Adamson University </br>
                                                     1996 - 2000
 
                                                 </p>
                                             </div>
-                                           
+
                                         </div>
-                                    </div>   
+                                    </div>
                                 </div>
-                                
+
                             </div>
                             <!-- End -->
                         </div>
@@ -136,41 +126,22 @@ include('header.php');
                                 </div>
                                 <div class="pricing-body">
                                     <div class="check-wrapper">
-                                    <div class="left-area">
+                                        <div class="left-area">
                                             <div class="check d-flex">
                                                 <i class="fas fa-certificate text-primary mt-1 me-3"></i>
-                                                <p>  <span class="text-primary fs-2 fw-bold">Introduction to Cybersecurity</span> </br>
-                                                    Cisco </br>
-                                                    Badge Link: <a class="text-primary" target="_blank"  href="https://www.credly.com/earner/earned/badge/f6ac5174-edf6-4926-a050-0d39a7cb2a76">Click Here <i class="fas fa-external-link-alt"></i></a>     </br>
-                                                    Issued: 10/29/2021
-
-
+                                                <p> <span class="text-primary fs-2 fw-bold">PMI Philippines Chapter: Project Management Fundamentals</span> </br>
                                                 </p>
                                             </div>
 
                                             <div class="check d-flex">
                                                 <i class="fas fa-certificate text-primary mt-1 me-3"></i>
-                                                <p><span class="text-primary fs-2 fw-bold">Cybersecurity Essentials</span> </br>
-                                                    Cisco </br>
-                                                    Badge Link: <a class="text-primary" target="_blank" href="https://www.credly.com/earner/earned/badge/2d5d2be4-ceb7-4dc1-b70d-5602f9ce83df">Click Here <i class="fas fa-external-link-alt"></i></a>  </br>
-                                                    Issued: 10/29/2021
-
+                                                <p><span class="text-primary fs-2 fw-bold">ScrumAlliance: Certified ScrumMaster® 2018</span> </br>
                                                 </p>
                                             </div>
 
-                                            <div class="check d-flex">
-                                                <i class="fas fa-certificate text-primary mt-1 me-3"></i>
-                                                <p><span class="text-primary fs-2 fw-bold">The Complete Ethical Hacking Course</span> </br>
-                                                    Udemy </br>
-                                                    Certificate Link: <a class="text-primary" target="_blank"  href="https://www.udemy.com/certificate/UC-39ac6a8b-6803-4b2a-bdff-4554d5dcb5be/">Click Here <i class="fas fa-external-link-alt"></i></a>     </br>
-                                                    Issued: 08/13/2020
 
-
-                                                </p>
-                                            </div>
-                                           
                                         </div>
-                                        
+
                                     </div>
                                 </div>
                             </div>

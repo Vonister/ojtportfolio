@@ -393,7 +393,7 @@ $company_tab = $_GET['company_tab'];
                                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                         </div>
                                         <div class="modal-body">
-                                            <embed style="height: 100vh" class="w-100" src="assets/pdf/OJT Program of the company.pdf#toolbar=0" type="application/pdf">
+                                            <embed style="height: 100vh" class="w-100" src="./assets/pdf/OJT Program of the company.pdf#toolbar=0" type="application/pdf">
                                         </div>
                                         <div class="modal-footer">
                                             <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
