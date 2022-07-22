@@ -17,8 +17,8 @@ include('header.php');
                                     <img src="assets/images/3d/supervisor.png" alt="Testimonial-image">
                                 </div>
                                 <div class="card-content">
-                                    <h5 class="title">Carmela Garcia</h5>
-                                    <span class="designation">Eastvantage Project Manager | Female</span> </br>
+                                    <h5 class="title">Carmela Garcia (Mela)</h5>
+                                    <small class="designation">Eastvantage Project Manager | Female</small> </br>
                                     <small class="text-primary"> <i class="fas fa-map-marker-alt"></i> 24/F Fort Legend Tower 3rd Avenue corner 31st Street,
                                         Bonifacio Global Ciy, Taguig
                                     </small>

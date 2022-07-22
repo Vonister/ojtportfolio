@@ -17,8 +17,8 @@ include('header.php');
                                     <img src="assets/images/3d/profile_pic.png" alt="Testimonial-image">
                                 </div>
                                 <div class="card-content">
-                                    <h5 class="title">Von Ryan Sumague</h5>
-                                    <span class="designation">22 years old | Male</span> </br>
+                                    <h5 class="title">Von Ryan Sumague (Von)</h5>
+                                    <small class="designation">22 years old | Male</small> </br>
                                     <small class="text-primary"> <i class="fas fa-map-marker-alt"></i> Janopol Oriental, Tanauan City, Batangas, Philippines</small>
                                 </div>
                             </div>
